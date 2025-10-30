@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://fabrice.lehub.online](https://fabrice.lehub.online)**
 
-- 📄 Know about my experiences **[https://fabrice.lehub.online/cv.html](https://fabrice.lehub.online/cv.html)**
+- 📄 Know about my experiences **[https://fabrice.lehub.online/cv.html](https://fabrice.lehub.online/cv-en.html)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
